@@ -3,7 +3,7 @@ package main
 import (
 	"strings"
 
-	"github.com/alash3al/libsrchx"
+	srchx "github.com/devforth/libsrchx"
 
 	"github.com/blevesearch/bleve"
 	"github.com/blevesearch/bleve/search/query"
